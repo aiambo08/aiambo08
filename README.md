@@ -64,7 +64,7 @@ Mis repositorios reflejan mi trayectoria académica y mis proyectos personales. 
 
 
 💡 *"Los datos son el nuevo petróleo, pero el conocimiento es el motor que lo hace funcionar."*
-No olvides reemplazar:
+
 
 
 <!--
