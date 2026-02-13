@@ -62,11 +62,6 @@ Mis repositorios reflejan mi trayectoria académica y mis proyectos personales. 
 
 ---
 
-## 🚀 Proyectos Destacados
-
-*Aquí puedes añadir tus mejores repositorios cuando los tengas listos*
-
----
 
 💡 *"Los datos son el nuevo petróleo, pero el conocimiento es el motor que lo hace funcionar."*
 No olvides reemplazar:
