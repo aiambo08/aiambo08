@@ -1,4 +1,4 @@
-## Hi there 👋 Soy AIbo Ni
+## Hi there 👋 Soy Aibo Ni
 
 ### 🎓 Estudiante de Ciencia de Datos e Inteligencia Artificial @ UPM
 
