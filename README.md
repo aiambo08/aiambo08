@@ -54,9 +54,6 @@ Mis repositorios reflejan mi trayectoria académica y mis proyectos personales. 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiambo08&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aiambo08&layout=compact&langs_count=7&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aiambo08&theme=radical)
 
