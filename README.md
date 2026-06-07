@@ -54,9 +54,9 @@ Mis repositorios reflejan mi trayectoria académica y mis proyectos personales. 
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img height="195" src="https://github-stats-extended.vercel.app/api?username=qiuskye&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=qiuskye&theme=dark&hide_border=true" />
-  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=qiuskye&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="195" src="https://github-stats-extended.vercel.app/api?username=aiambo08&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=aiambo08&theme=dark&hide_border=true" />
+  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aiambo08&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ---
