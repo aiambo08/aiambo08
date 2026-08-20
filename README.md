@@ -1,82 +1,69 @@
-## Hi there 👋 Soy Aibo Ni
+# Hi there, I'm Aibo Ni 👋
+### Data Science & AI Engineer | LLMs & RAG · Computer Vision · Product Mindset
 
-### 🎓 Estudiante de Ciencia de Datos e Inteligencia Artificial @ UPM
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aibo-ni-aaa684358)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aiambo08)
 
-Soy estudiante de Ciencia de Datos e Inteligencia Artificial en la Universidad Politécnica de Madrid (UPM).
-Esta carrera me está proporcionado una formación integral que combina la profundidad matemática con la aplicación práctica. Esta disciplina me permite extraer valor de grandes volúmenes de información, desarrollar modelos predictivos precisos y automatizar procesos de toma de decisiones mediante algoritmos inteligentes. La versatilidad de esta carrera abre puertas en sectores tan diversos como la salud, las finanzas, la industria y la tecnología.
-
-**Lo que esta formación ha cultivado en mí:**
-- 🧠 **Pensamiento analítico riguroso** — Capacidad de descomponer problemas complejos y abordarlos metódicamente
-- 📐 **Fundamentos matemáticos sólidos** — Álgebra Lineal, Cálculo, Probabilidad y Estadística como base de todo mi trabajo
-- 🤖 **Competencias en Machine Learning** — Desde algoritmos clásicos hasta redes neuronales profundas
-- 🔍 **Curiosidad investigadora** — Inquietud por descubrir patrones ocultos y generar insights accionables
-- 💻 **Habilidades técnicas versátiles** — Dominio de Python y sus principales librerías para ciencia de datos
-
-**¿Qué encontrarás en este perfil?**
-Mis repositorios reflejan mi trayectoria académica y mis proyectos personales. Aquí podrás explorar notebooks de análisis exploratorio, implementaciones de modelos de ML, pipelines de procesamiento de datos, y experimentos con deep learning. Todo organizado y documentado para compartir conocimiento y demostrar mi evolución continua en este campo.
-
-## 🌐 Conecta conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aibo-ni-aaa684358)
+Estudiante de **Ciencia de Datos e Inteligencia Artificial en la Universidad Politécnica de Madrid (UPM)**. Me enfoco en cerrar la brecha entre la investigación matemática/ML y el desarrollo de **productos de IA escalables con impacto en negocio**.
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Áreas de Enfoque & Especialización
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-7CB9E8?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB5B2E?style=for-the-badge&logo=xgboost&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![RDF](https://img.shields.io/badge/RDF-0066CC?style=for-the-badge&logo=semantic-web&logoColor=white)
-![Turtle](https://img.shields.io/badge/Turtle-4B9CD3?style=for-the-badge&logo=turtle&logoColor=white)
-![SPARQL](https://img.shields.io/badge/SPARQL-005C94?style=for-the-badge&logo=sparql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0096D6?style=for-the-badge&logo=google&logoColor=white)
+- 👁️ **Computer Vision & Real-Time Inference:** Pipelines de visión computacional, extracción de landmarks, detección y tracking optimizados para baja latencia.
+- 🧠 **LLMs & Retrieval-Augmented Generation (RAG):** Arquitecturas RAG modulares, bases de datos vectoriales y agentes autónomos orientados a casos de uso reales.
+- 📈 **Predictive Modeling & Applied Statistics:** Series temporales, analítica predictiva y modelos cuantitativos con validación estadística rigurosa.
+- 🛠️ **AI Product Engineering & Startups:** Diseño de arquitecturas de software limpias, desarrollo de MVPs rápidos y mentalidad de producto (product-market fit, métricas y viabilidad técnica).
+
 ---
 
-## 📊 GitHub Stats:
+### 🛠️ Tech Stack
+
+#### **Machine Learning & Deep Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0096D6?style=flat-square&logo=google&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5B2E?style=flat-square&logo=xgboost&logoColor=white)
+
+#### **Data Engineering, Graph & Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+
+#### **Tools, Deployment & Environments**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+![Linux / WSL](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+<!--
+### 📌 Proyectos Destacados & Enfoque de Soluciones
+
+| Proyecto / Dominio | Stack Principal | Problema & Solución |
+| :--- | :--- | :--- |
+| **Real-Time Computer Vision** | PyTorch, OpenCV, MediaPipe | Pipelines de inferencia en tiempo real y arquitecturas de deep learning para interacción humano-máquina. |
+| **Modular RAG & AI Assistants** | Python, Vector DBs, LLMs | Extracción y generación aumentada contextualizada para consulta sobre bases de conocimiento complejas. |
+| **Statistical & Financial Forecasting** | Scikit-Learn, XGBoost, Pandas | Modelado predictivo de series temporales con backtesting y métricas de error orientadas a toma de decisiones. |
+| **AI Tooling / SaaS MVPs** | Python, Docker, APIs | Herramientas y microservicios diseñados con foco en usabilidad, modularidad y despliegue rápido. |
+
+---
+-->
+### 📊 GitHub Activity & Stats
+
 <div align="center">
-  <img height="195" src="https://github-stats-extended.vercel.app/api?username=aiambo08&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=aiambo08&theme=dark&hide_border=true" />
-  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aiambo08&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=aiambo08&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aiambo08&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aiambo08&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ---
 
-
-💡 *"Los datos son el nuevo petróleo, pero el conocimiento es el motor que lo hace funcionar."*
-
-
-
-<!--
-**aiambo08/aiambo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>"Building practical, production-ready AI systems from first principles."</i>
+</p>
