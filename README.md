@@ -44,7 +44,7 @@ A local static-analysis CLI for AI code-risk signals and review evidence related
 ## Currently
 
 I'm strengthening my foundations in computer vision and robotics, and preparing for **summer 2027 internships** in ML, computer vision and robotics.
-username=aiambo08&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
 </div>
 
 ---
